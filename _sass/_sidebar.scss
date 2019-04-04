@@ -10,7 +10,7 @@
  * Modification to lanyon sidebar inspired by Jelena Jovanovic:
  *   https://codepen.io/plavookac/pen/qomrMw;
  * now sidebar will slide in/overlay content instead of pushing page to side.
- * ~ WestPac web developer
+ * ~ developer
  */
 
 /* Style and "hide" the sidebar */
@@ -24,7 +24,7 @@
 
 
 #sidebarMenu {
-   background-color: #003399;
+   background-color: #003366;
    color: rgba(255,255,255,.6);
    height: 100%;
    position: absolute;
@@ -136,11 +136,11 @@ input[type=checkbox] {
    position: absolute;
    height: 3px;
    width: 100%;
-   background-color: #003399;
+   background-color: #003366;
 }
 
 .horizontal {
-   color: #003399;
+   color: #003366;
    transition: all 0.3s;
    box-sizing: border-box;
    position: relative;
