@@ -3,7 +3,7 @@ layout: post
 title: Marian Who?
 ---
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Amazingly, there are no named female characters in the story. So this "tweak", created by a modern librarian (and sometime web developer), is named for [the most famous *modern librarian*](http://www.guidetomusicaltheatre.com/shows_m/music_man.htm)
+*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Amazingly, there are no named female characters in the story. So this "tweak", created by a modern librarian (and sometime web developer), is named for [the most famous *modern librarian*](http://www.guidetomusicaltheatre.com/shows_m/music_man.htm).
 
 -----
 
