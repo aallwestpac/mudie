@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1078 1100" style="enable-background:new 0 0 1078 1100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#sky_1_);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:url(#sun_1_);}
+</style>
+<title>sky+sun</title>
+<g>
+	<g id="mountains_landscape">
+		<g id="landscape">
+			
+				<radialGradient id="sky_1_" cx="164.495" cy="557.175" r="912.69" gradientTransform="matrix(1 0 0 -1 0 1101.75)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#EFF4B1"/>
+				<stop  offset="1" style="stop-color:#DEEADC"/>
+			</radialGradient>
+			<rect id="sky" x="-0.3" y="-0.1" class="st0" width="1078.5" height="594.3"/>
+			
+				<radialGradient id="sun_1_" cx="286.752" cy="826.8206" r="99.827" gradientTransform="matrix(1 0 0 -1 0 1101.75)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#F6F2C8"/>
+				<stop  offset="0.39" style="stop-color:#F7F3CD"/>
+				<stop  offset="0.88" style="stop-color:#F9F7DD"/>
+				<stop  offset="1" style="stop-color:#FAF8E2"/>
+			</radialGradient>
+			<path id="sun" class="st1" d="M190.8,308.1c-19.2-50.6,8.2-106.6,61.2-124.9s111.5,7.9,130.7,58.5s-8.2,106.6-61.2,124.9
+				S210,358.8,190.8,308.1z"/>
+		</g>
+	</g>
+</g>
+</svg>

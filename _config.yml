@@ -1,0 +1,37 @@
+# Permalinks
+permalink:           posts/:year/:month/:day/:title
+
+# Setup
+title:               Marian (a Modern Librarian)
+tagline:             Jekyll with a sidebar and parallax
+url:                 https://github.com/aallwestpac/marian
+paginate:            5
+paginate_path:       "/updates/page:num/"
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              A librarian who wishes to remain anonymous
+  url:               https://github.com/aallwestpac/
+  email:             aallwestpac@gmail.com
+
+# Custom vars
+version:             0.1
+github:
+  repo:              https://github.com/aallwestpac/marian
+
+# Image location for gDocs Gabriel add-on.
+post_assets: assets/posts
+
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-feed
