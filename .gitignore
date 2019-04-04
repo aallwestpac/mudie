@@ -1,4 +1,5 @@
 # Ignore docs files
+_site
 .ruby-version
 .sass-cache
 
