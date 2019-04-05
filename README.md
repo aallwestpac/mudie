@@ -1,6 +1,6 @@
 # Marian
 
-This repo modifies Poole+Lanyon to add parallax scrolling and a sidebar that overlays the left part of the page. The creator is not a true coder. Anyone is welcome to fork/branch the repo and modify it as desired. No support is offered and issues aren't likely to be solved.
+This repo modifies Poole+Lanyon to add parallax scrolling and a sidebar that overlays the left part of the page. The creator is not a true coder. Anyone is welcome to fork/branch the repo and modify it as desired. No support is offered and issues are likely **never** to be solved.
 
 ---
 
