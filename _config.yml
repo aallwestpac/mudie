@@ -2,7 +2,7 @@
 permalink:           posts/:year/:month/:day/:title
 
 # Setup
-title:               Marian (a Modern Librarian)
+title:               marian (a modern librarian)
 tagline:             Jekyll with a sidebar and parallax
 url:                 https://github.com/aallwestpac/marian
 paginate:            5
