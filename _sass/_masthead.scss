@@ -16,10 +16,7 @@
 .masthead-title {
    margin-top: 0;
    margin-bottom: 0;
-   color: #444444;
-   a {
-      color: #064C5C;
-   }
+   color: #inherit;
    @media (max-width: 48em) {
       .masthead-title {
       text-align: center;
@@ -30,8 +27,7 @@
 .masthead-tagline {
    font-size: 75%;
    font-weight: 400;
-   color: #064C5C;
-   opacity: .75;
+   color: #444444;
    @media (max-width: 48em) {
       .masthead-tagline {
          display: none;
