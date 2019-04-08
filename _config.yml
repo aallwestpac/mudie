@@ -2,9 +2,9 @@
 permalink:           posts/:year/:month/:day/:title
 
 # Setup
-title:               marian (a modern librarian)
+title:               mudie
 tagline:             Jekyll with a sidebar and parallax
-url:                 https://github.com/aallwestpac/marian
+url:                 https://github.com/aallwestpac/mudie
 paginate:            5
 paginate_path:       "/updates/page:num/"
 baseurl:             ""
@@ -25,7 +25,7 @@ author:
 # Custom vars
 version:             0.1
 github:
-  repo:              https://github.com/aallwestpac/marian
+  repo:              https://github.com/aallwestpac/mudie
 
 # Image location for gDocs Gabriel add-on.
 post_assets: assets/posts
