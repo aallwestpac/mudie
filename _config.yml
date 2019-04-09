@@ -7,7 +7,8 @@ tagline:             Jekyll with a sidebar and parallax
 url:                 https://github.com/aallwestpac/mudie
 paginate:            5
 paginate_path:       "/updates/page:num/"
-baseurl:             ""
+baseurl:             "/mudie"
+production_url:      http://aallwestpac.github.io/mudie
 
 # Assets
 #
